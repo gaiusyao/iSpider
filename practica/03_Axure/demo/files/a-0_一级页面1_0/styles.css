@@ -169,7 +169,7 @@
   left:0px;
   top:0px;
   width:256px;
-  height:188px;
+  height:208px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -179,7 +179,6 @@
   box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
   font-family:'苹方 中等', '苹方';
   font-weight:400;
-  font-style:normal;
   font-size:14px;
   line-height:20px;
 }
@@ -188,10 +187,9 @@
   left:384px;
   top:208px;
   width:256px;
-  height:188px;
+  height:208px;
   font-family:'苹方 中等', '苹方';
   font-weight:400;
-  font-style:normal;
   font-size:14px;
   line-height:20px;
 }
