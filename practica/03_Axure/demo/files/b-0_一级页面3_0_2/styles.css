@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:10px;
+  width:960px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +11,213 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u11_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:168px;
+  background:inherit;
+  background-color:rgba(255, 223, 37, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u11 {
+  position:absolute;
+  left:384px;
+  top:412px;
+  width:256px;
+  height:168px;
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u12 {
+  position:absolute;
+  left:8px;
+  top:12px;
+  width:240px;
+  word-wrap:break-word;
+}
+#u13_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:128px;
+  background:inherit;
+  background-color:rgba(72, 176, 210, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u13 {
+  position:absolute;
+  left:64px;
+  top:64px;
+  width:256px;
+  height:128px;
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u14 {
+  position:absolute;
+  left:8px;
+  top:12px;
+  width:240px;
+  word-wrap:break-word;
+}
+#u15_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:168px;
+  background:inherit;
+  background-color:rgba(208, 225, 125, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u15 {
+  position:absolute;
+  left:384px;
+  top:64px;
+  width:256px;
+  height:168px;
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u16 {
+  position:absolute;
+  left:8px;
+  top:12px;
+  width:240px;
+  word-wrap:break-word;
+}
+#u17_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:148px;
+  background:inherit;
+  background-color:rgba(239, 90, 161, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u17 {
+  position:absolute;
+  left:384px;
+  top:248px;
+  width:256px;
+  height:148px;
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+#u18 {
+  position:absolute;
+  left:8px;
+  top:12px;
+  width:240px;
+  word-wrap:break-word;
+}
+#u19_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:208px;
+  background:inherit;
+  background-color:rgba(208, 225, 125, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  -webkit-box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  box-shadow:4px 4px 8px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-size:14px;
+  line-height:20px;
+}
+#u19 {
+  position:absolute;
+  left:704px;
+  top:64px;
+  width:256px;
+  height:208px;
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-size:14px;
+  line-height:20px;
+}
+#u20 {
+  position:absolute;
+  left:8px;
+  top:12px;
+  width:240px;
+  word-wrap:break-word;
+}
+#u21 {
+  position:absolute;
+  left:64px;
+  top:208px;
+  width:256px;
+  height:320px;
+}
+#u21_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:320px;
+  font-family:'苹方 中等', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
 }
